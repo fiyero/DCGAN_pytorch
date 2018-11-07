@@ -1,5 +1,7 @@
-# DCGAN_pytorch
-updatev1(7th Nov 2018): when I write this model I didnt realise we no longer have to wrap tensor into variable in the latest pytorh<br/>
+# DCGAN_pytorch<br/>
+updatev1<br/>
+(7th Nov 2018): when I write this model I didnt realise we no longer have to wrap tensor into variable in the latest pytorh<br/>
+folder load_weight_results contains several fake generated img in different epoch
 
 Run DCGAN in pytorch with multiple GPU for Cifar 10 dataset<br/>
 The full code is for demonstration purpose, I have tried tunning different parameters for more than 100+ epochs.<br/>
