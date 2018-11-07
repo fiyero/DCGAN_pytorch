@@ -1,4 +1,6 @@
 # DCGAN_pytorch
+updatev1: when I write this model I didnt realise we no longer have to wrap tensor into variable in the latest pytorhc
+
 
 Run DCGAN in pytorch with multiple GPU for Cifar 10 dataset<br/>
 The full code is for demonstration purpose, I have tried tunning different parameters for more than 100+ epochs.<br/>
