@@ -4,7 +4,7 @@ Run DCGAN in pytorch with multiple GPU for different datasets<br/>
 The full code is for demonstration purpose, I have tried tunning different parameters for more than 100+ epochs.<br/>
 Since it is a bit messy I just post the <b>original training condition </b>and it should be good enough to experience what is DCGAN.<br/>
 
-For celebA:
+For celebA:<br/>
 fake img <b>before training</b><br/>
 ![fake_img_version_epoch_001](https://user-images.githubusercontent.com/38428076/48122037-84ce4700-e2b1-11e8-8bc3-6bc5d4cd5124.jpg)<br/>
 
@@ -16,7 +16,7 @@ random real img<br/>
 
 
 
-For Cifar 10:
+For Cifar 10:<br/>
 fake img <b>before training</b><br/>
 ![fake_img_version_epoch_001](https://user-images.githubusercontent.com/38428076/48109499-b0860880-e282-11e8-8ca1-bed705e0eb0f.jpg)
 
