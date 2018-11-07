@@ -20,5 +20,6 @@ My problems are:<br/>
 1.The quality of the fake img still have much room for improvement.<br/>
 2.Sometime i will have weird result , such as<br/>
 ![image](https://user-images.githubusercontent.com/38428076/48109797-d6f87380-e283-11e8-849b-2c6ff216cdda.png)<br/>
-You can see the generated fake imgs in the last few results are completely go wrong, but if training continues, it will kind of back to the inital untrained stage and train from the beginning again. I guess this may due to large lr step?
+You can see the generated fake imgs in the last few results are completely go wrong, but if training continues, it will kind of back to the inital untrained stage and train from the beginning again. <br/>
+I guess this may due to large lr step?<br/>
 3.The images of Cifar 10 dataset are low in resolution, I should try with larger img set to better experience DCGAN
